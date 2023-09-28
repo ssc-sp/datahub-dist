@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" Version="2.0.110.0" Uri="https://github.com/ssc-sp/datahub-portal/releases/download/fsdh-uploader-2.0.110.0/fsdh-uploader.appinstaller" >
+    <MainPackage Name="fsdh-uploader" Publisher="CN=Shared Services Canada, O=Shared Services Canada, L=Ottawa, S=Ontario, C=CA" Version="2.0.110.0" ProcessorArchitecture="x64" Uri="https://github.com/ssc-sp/datahub-portal/releases/download/fsdh-uploader-2.0.110.0/Desktop.Uploader_2.0.110.0_x64.msix" />
+</AppInstaller>
